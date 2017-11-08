@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: default
+  applicaiton:
+    name: demo
+
+server:
+  port: 5000
+
